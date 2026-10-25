@@ -65,9 +65,9 @@ O objetivo principal é documentar os critérios técnicos para especificação,
 
 
 
-TIPO DE CABEÇALHO 2
+---
 
-curso de segurança do trabalho
+## 📋 Modelo 2 — Cabeçalho para Projeto de Mecatrônica & Robótica
 
 
 
